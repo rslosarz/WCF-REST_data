@@ -1,0 +1,5 @@
+c:\users\rafal\documents\visual studio 2012\Projects\WPF\Rest\Rest\bin\Rest.dll
+c:\users\rafal\documents\visual studio 2012\Projects\WPF\Rest\Rest\bin\Rest.pdb
+c:\users\rafal\documents\visual studio 2012\Projects\WPF\Rest\Rest\obj\Debug\Rest.csprojResolveAssemblyReference.cache
+c:\users\rafal\documents\visual studio 2012\Projects\WPF\Rest\Rest\obj\Debug\Rest.dll
+c:\users\rafal\documents\visual studio 2012\Projects\WPF\Rest\Rest\obj\Debug\Rest.pdb
